@@ -1,4 +1,3 @@
-# Chang-Gung
 # 🛡️ 防哽咽即時監測系統 (Anti-Choking Real-Time Monitoring System)
 
 本專案是一個結合 **ESP32-S3 Sense** 影像與聲學採集、**Raspberry Pi 4B** 邊緣 AI 辨識、以及 **跨網路遠端 Web 監控網站** 的防哽咽與嗆咳即時預警系統。
